@@ -1,0 +1,9 @@
+#navbar {
+  display: flex;
+  width: 100%;
+  min-width: 100vh;
+}
+
+#title {
+  font-size: 40px;
+}
